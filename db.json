@@ -1,20 +1,5 @@
 {"Lists":[
     {
-        "title": "National Emergency Number",
-        "number": "112",
-        "location" : "India",
-        "img": "https://www.zhl.org.in/blog/wp-content/uploads/2017/02/Future-as-112-india-emergency-number.jpg"
-    }, {
-        "title": "Police",
-        "number": "100",
-        "location" : "India",
-        "img": "https://img.pngio.com/police-icon-png-418418-free-icons-library-police-icon-png-256_256.jpg"
-    }, {
-        "title": "Fire",
-        "number": "101",
-        "location" : "India",
-        "img": "https://www.pngitem.com/pimgs/m/115-1157631_fire-download-icon-transparent-background-flame-icon-hd.png"
-    }, {
         "title": "Ambulance",
         "number": "102",
         "location" : "India",
